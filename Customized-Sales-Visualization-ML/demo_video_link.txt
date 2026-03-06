@@ -1,6 +1,7 @@
 Demo Video Link:
 
 The demonstration video of this project is available at the following link:
-(https://docs.google.com/presentation/d/1LN3aAMb7sI3INxkx8ZUSfAb0hNCovqRa/edit?usp=sharing&ouid=107728103109937594289&rtpof=true&sd=true)
+https://docs.google.com/presentation/d/1gOsoItaO41kMbqRGebE2_rqkcK8Mlc8f/edit?usp=sharing&ouid=107728103109937594289&rtpof=true&sd=true
+
 
 This video explains the working of the Power BI visualization dashboard and the Machine Learning prediction system developed using Python and Streamlit.
