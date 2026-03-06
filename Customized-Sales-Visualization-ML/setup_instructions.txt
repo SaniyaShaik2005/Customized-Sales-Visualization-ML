@@ -1,0 +1,13 @@
+Follow the steps below to run the project.
+
+1. Install Python (version 3.8 or above)
+
+2. Install required libraries
+   pip install -r requirements.txt
+
+3. Navigate to the src folder
+
+4. Run the Streamlit application
+   streamlit run forecast_dashboard.py
+
+5. The dashboard will open in your browser where users can explore sales visualization and predictions.
